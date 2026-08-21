@@ -1,0 +1,20 @@
+PERSONAL FINANCE - EXPENSE INSIGHTS REPORT
+=============================================
+
+Average monthly spend: $11,268.35
+Biggest expense category: Rent (26.6% of total spend)
+Needs vs Wants split: 56.3% / 43.7%
+
+Category totals:
+  Rent            $36,000.00
+  Shopping        $26,019.27
+  Education       $18,732.94
+  Food            $15,947.93
+  Entertainment   $14,330.25
+  Health          $14,124.89
+  Transport       $6,713.25
+  Utilities       $3,351.71
+
+Forecast for next month: $11,195.72
+Trend: spending is decreasing by ~$11.17/month
+Model R^2: 0.001
